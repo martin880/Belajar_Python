@@ -56,3 +56,5 @@ print('\n===========<<============')
 print('nilai :', a, ',binary:', format(a, '08b'))
 print('------------------------------- (<<)')
 print('nilai :', c, ',binary:', format(c, '08b'))
+
+# Next
